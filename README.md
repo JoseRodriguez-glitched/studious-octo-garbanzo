@@ -1,5 +1,5 @@
 # studious-octo-garbanzo
 This is a test
-```[python]
+```python
 import this
 ```
